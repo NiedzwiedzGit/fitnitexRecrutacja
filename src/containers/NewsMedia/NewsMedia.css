@@ -1,0 +1,15 @@
+.NewsMedia{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 5em;
+    width: 100%;
+    text-align: center;
+    background: lightblue url("../../assets//images/modern-architecture-contemporary-purple-building-clear-sky-3872x2592-2531.jpg") no-repeat fixed center;
+    background-size: 100% 100%;
+
+}
+.NewsMedia p{
+    margin: auto;
+}
